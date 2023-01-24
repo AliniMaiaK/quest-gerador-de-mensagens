@@ -40,9 +40,9 @@ Um projeto de quest do curso DevemDobro DevQuest🚀🚀🚀
 
 
 
-👊🏻🤘🏻 Desafios que tive
+👊🏻🤘🏻 Desafios que tive🤘🏻👊🏻
 
-Foi um pouco desafiador para montar este projeto pois eu comecei a trabalhar com API recentemente e tinha acabado de concluir meu conhecimento em JS avançado, mas, foi incrível a experiência de poder  contruir e me desafiar a melhorar minhas expertises em programação.
+Foi um pouco desafiador para montar este projeto pois eu comecei a trabalhar com API recentemente e tinha acabado de concluir meu conhecimento em JS avançado, mas, foi incrível a experiência de poder  construir e me desafiar a melhorar minhas expertises em programação.
 
 
 
