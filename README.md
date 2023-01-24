@@ -1,4 +1,4 @@
-# Projeto gerador de conselhos aleatório
+# Projeto gerador de conselhos/mensagens aleatório
 
 Um projeto de quest do curso DevemDobro DevQuest🚀🚀🚀
 
@@ -29,7 +29,7 @@ Um projeto de quest do curso DevemDobro DevQuest🚀🚀🚀
 7. Atribuir a função que criamos para ser executada no evento do clique do botão.
 
 
-✅Liguagens que foram usadas.
+✅Linguagens que foram usadas.
 
 - CSS
 - HTML
